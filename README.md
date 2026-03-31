@@ -23,7 +23,7 @@ CyberGuardSA is a cybersecurity awareness chatbot developed for The IIE's Portfo
 -  **Colorful Console UI** - Enhanced visual experience with colored text
 -  **Typing Effect** - Simulates natural conversation flow
 -  **Cybersecurity Education** - Comprehensive responses on 8+ topics
--  **Input Validation** - Handles empty and invalid inputs gracefully
+-  **Input Validation** - Handles empty and invalid inputs 
 - **Modular Code Structure** - Organized into separate classes
 -  **GitHub Actions CI** - Automated builds and testing
 
@@ -31,7 +31,7 @@ CyberGuardSA is a cybersecurity awareness chatbot developed for The IIE's Portfo
 
 ### Prerequisites
 
-- **.NET 8.0 SDK** or higher (or .NET 10.0 Preview)
+- **.NET 10.0 SDK** (or .NET 10.0 Preview)
 - **Windows OS** (for audio playback)
 - **Visual Studio 2022** or **VS Code**
 
