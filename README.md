@@ -26,6 +26,7 @@ CyberGuardSA is a cybersecurity awareness chatbot developed for The IIE's Portfo
 -  **Input Validation** - Handles empty and invalid inputs 
 - **Modular Code Structure** - Organized into separate classes
 -  **GitHub Actions CI** - Automated builds and testing
+-  My Youtube Video Link: https://youtu.be/vT-cqjAsm9g
 
 ## Getting Started
 
